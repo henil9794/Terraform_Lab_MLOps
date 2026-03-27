@@ -56,7 +56,7 @@ terraform init
 ```
 
 You can see the output as shown in below image:
-![terraform init image](images\terraform_init.png)
+![terraform init image](images/terraform_init.png)
 ---
 
 ### 5. Preview the Infrastructure
@@ -68,7 +68,7 @@ terraform plan
 ```
 
 You can see the output as shown in below image:
-![terraform init image](images\terraform_plan.png)
+![terraform plan image](images/terraform_plan.png)
 ---
 
 ### 6. Deploy to GCP
@@ -82,10 +82,10 @@ terraform apply
 > Type `yes` when prompted to confirm.
 
 You can see the output as shown in below image:
-![terraform init image](images\terraform_apply.png)
+![terraform apply image](images/terraform_apply.png)
 
 You will see the created VM instance in GCP console as shown in below image:
-![terraform init image](images\terraform_gcp_vm_instance.png)
+![terraform gcp vm instance image](images/terraform_gcp_vm_instance.png)
 ---
 ## Useful Commands Reference
 
