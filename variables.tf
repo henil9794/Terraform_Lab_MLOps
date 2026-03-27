@@ -1,7 +1,7 @@
 variable "project_id" {
   description = "Terrafrom Lab GCP Project ID"
   type        = string
-  default     = "terraform-lab-mlops-491515" 
+  default     = "Your GCP Project ID" 
 }
 
 variable "region" {
